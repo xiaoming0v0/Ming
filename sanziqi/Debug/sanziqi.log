@@ -1,0 +1,7 @@
+﻿  game.c
+E:\Code\clainxi\clainxi02\sanziqi\game.c(86,15): warning C4013: “rand”未定义；假设外部返回 int
+  test.c
+E:\Code\clainxi\clainxi02\sanziqi\test.c(54,7): warning C4013: “srand”未定义；假设外部返回 int
+E:\Code\clainxi\clainxi02\sanziqi\test.c(54,26): warning C4013: “time”未定义；假设外部返回 int
+  正在生成代码...
+  sanziqi.vcxproj -> E:\Code\clainxi\clainxi02\sanziqi\Debug\sanziqi.exe
